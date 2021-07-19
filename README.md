@@ -1,0 +1,3 @@
+# ContactsTest
+iOS9以后出了一个新的ContactsUI来代替原来AddressBook用来获取通讯录内信息。
+这个demo简单介绍下常用的获取通讯录内所有联系人以及选择某一个手机号方法。
